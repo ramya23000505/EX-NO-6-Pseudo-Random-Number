@@ -14,6 +14,7 @@ Pass the value for number of iterations and print the numbers.
 End the program.
 
 # PROGRAM:
+```
 #include <stdio.h>
 
 #define A 1664525
@@ -43,5 +44,5 @@ int main() {
 }
 # OUTPUT:
 ![image](https://github.com/user-attachments/assets/692e12cf-6a3f-4b36-9ad0-5b98ea7fe436)
-
+```
 # RESULT:
